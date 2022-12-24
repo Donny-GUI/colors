@@ -1,4 +1,4 @@
-# colors
+# colors  🌈
 Colors for inline use to transform your terminal output
 
 
