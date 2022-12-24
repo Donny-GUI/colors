@@ -1,6 +1,13 @@
 # colors
 Colors for inline use to transform your terminal output
 
+
+![Screenshot from 2022-12-23 20-11-37](https://user-images.githubusercontent.com/108424001/209420922-e1427e80-b5f7-4c5a-8268-b9305ffbab9e.png)
+
+
+
+![Screenshot from 2022-12-23 20-13-38](https://user-images.githubusercontent.com/108424001/209420920-608dfe3c-5846-4c47-8e7c-fecac576866e.png)
+
 Tested on MacOS and Linux
 
 ## Installation
@@ -10,6 +17,8 @@ cd <project directory>
 git clone https://github.com/Donny-GUI/colors.git
 
 ```
+
+## Use inside program
 
 ```Python3
 import colors
