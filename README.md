@@ -1,6 +1,7 @@
 # colors
-color codes and such
+Colors for inline use to transform your terminal output
 
+Tested on MacOS and Linux
 
 ## Installation
 
